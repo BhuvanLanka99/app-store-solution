@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.tab-item {
+  display: flex;
+  list-style: none;
+  margin-right: 25px;
+}
+
+.tab-name {
+  font-size: 18px;
+  font-family: 'Roboto';
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #7b8794;
+  font-weight: 500;
+}
+
+.button2 {
+  background-color: transparent;
+  border: 0px;
+  outline: none;
+}
